@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "logger.h": "c",
+        "system_error": "c",
+        "asserts.h": "c",
+        "iosfwd": "c",
+        "entry.h": "c",
+        "application.h": "c",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "compare": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
