@@ -30,7 +30,7 @@ TAPI void* _darray_insert_at(void* array, u64 index, void* value_ptr);
     _darray_create(DARRAY_DEFAULT_CAPACITY, sizeof(type))
 
 #define darray_reserve(type, capacity) \
-    _darray_create(capacity, szieof(type))
+    _darray_create(capacity, sizeof(type))
 
 #define darray_destroy(array) _darray_destroy(array);
 

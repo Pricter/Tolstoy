@@ -179,7 +179,7 @@ void platform_sleep(u64 ms) {
     Sleep(ms);
 }
 
-platform_get_required_extension_names(const char*** names_darray) {
+void platform_get_required_extension_names(const char*** names_darray) {
     darray_push(*names_darray, &"VK_KHR_win32_surface");
 }
 
