@@ -7,6 +7,8 @@
 #include "containers/darray.h"
 #include "platform/platform.h"
 
+#include "vulkan_platform.h"
+
 static vulkan_context context;
 
 b8 vulkan_renderer_backend_initialize(renderer_backend* backend, const char* application_name, struct platform_state* plat_state) {
