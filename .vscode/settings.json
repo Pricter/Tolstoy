@@ -15,7 +15,9 @@
         "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "xiosbase": "c"
+        "xiosbase": "c",
+        "platform.h": "c",
+        "tmemory.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
