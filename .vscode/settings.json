@@ -17,7 +17,16 @@
         "xutility": "cpp",
         "xiosbase": "c",
         "platform.h": "c",
-        "tmemory.h": "c"
+        "tmemory.h": "c",
+        "renderer_types.inl": "c",
+        "atomic": "c",
+        "ios": "c",
+        "list": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "xhash": "c",
+        "xlocale": "c",
+        "xlocnum": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
