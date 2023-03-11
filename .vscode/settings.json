@@ -29,7 +29,10 @@
         "xlocnum": "c",
         "vulkan.h": "c",
         "defines.h": "c",
-        "assert.h": "c"
+        "assert.h": "c",
+        "vulkan_device.h": "c",
+        "algorithm": "c",
+        "limits": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
