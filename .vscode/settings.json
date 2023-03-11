@@ -32,7 +32,8 @@
         "assert.h": "c",
         "vulkan_device.h": "c",
         "algorithm": "c",
-        "limits": "c"
+        "limits": "c",
+        "vulkan_renderpass.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

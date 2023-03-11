@@ -105,6 +105,8 @@ typedef struct vulkan_context {
     vulkan_device device;
 
     vulkan_swapchain swapchain;
+    vulkan_renderpass main_renderpass;
+
     u32 image_index;
     u32 current_frame;
 
